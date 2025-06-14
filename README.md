@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NkereLuke
 - 👀 I’m interested in building a career in tech
-- 🌱 I’m currently learning cloud DevOps Engineering
+-    I'm learning Web / Software development
+- 🌱 I’m also learning cloud DevOps Engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me lnkwills@gmail.com
 
